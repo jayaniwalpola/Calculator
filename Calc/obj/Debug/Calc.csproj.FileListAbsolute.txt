@@ -1,0 +1,9 @@
+C:\Users\Jayani\Desktop\git\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Jayani\Desktop\git\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Jayani\Desktop\git\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Jayani\Desktop\git\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Jayani\Desktop\git\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Jayani\Desktop\git\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Jayani\Desktop\git\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Jayani\Desktop\git\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Jayani\Desktop\git\Calc\Calc\obj\Debug\Calc.pdb
